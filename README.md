@@ -16,7 +16,7 @@
 * [網路爬蟲](webdriver.py)
 	<br> 利用爬蟲webdriver套件搜集（台鐵的班次價格等）資料，最終整理並匯出成csv格式
 * [電腦視覺](ComputerVision.ipynb)
-	<br> 利用cv2套件在[照片](road.jpg)或[影片](road.mp4)（高速公路行車記錄器）當中偵測特定特徵（白線/虛線）並標示
+	<br> 利用cv2套件在[照片](road.jpg)/[影片](road.mp4)（高速公路行車記錄器）當中偵測特定特徵（白線/虛線）並標示
 	<br> 結果分別如下[照片](road_after.jpg)/[影片](road_after.mp4)
 
 # 資料庫管理 #
